@@ -21,7 +21,7 @@
     "url": "https://github.com/ActEuropa/VoteEuropa/issues"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "express-swagger-generator": "1.1.15",
     "bunyan": "1.8.12",
     "passport-google-oauth20": "2.0.0"
